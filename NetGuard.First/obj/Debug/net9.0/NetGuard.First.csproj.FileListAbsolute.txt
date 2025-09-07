@@ -1,0 +1,14 @@
+C:\Mine\NetGuard\NetGuard\NetGuard.First\bin\Debug\net9.0\NetGuard.First.exe
+C:\Mine\NetGuard\NetGuard\NetGuard.First\bin\Debug\net9.0\NetGuard.First.deps.json
+C:\Mine\NetGuard\NetGuard\NetGuard.First\bin\Debug\net9.0\NetGuard.First.runtimeconfig.json
+C:\Mine\NetGuard\NetGuard\NetGuard.First\bin\Debug\net9.0\NetGuard.First.dll
+C:\Mine\NetGuard\NetGuard\NetGuard.First\bin\Debug\net9.0\NetGuard.First.pdb
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\NetGuard.First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\NetGuard.First.AssemblyInfoInputs.cache
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\NetGuard.First.AssemblyInfo.cs
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\NetGuard.First.csproj.CoreCompileInputs.cache
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\NetGuard.First.dll
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\refint\NetGuard.First.dll
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\NetGuard.First.pdb
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\NetGuard.First.genruntimeconfig.cache
+C:\Mine\NetGuard\NetGuard\NetGuard.First\obj\Debug\net9.0\ref\NetGuard.First.dll
